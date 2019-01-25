@@ -1,0 +1,1 @@
+var contacts = document.querySelector(".contact-button");
